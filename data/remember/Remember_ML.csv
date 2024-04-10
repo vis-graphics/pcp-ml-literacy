@@ -1,0 +1,90 @@
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,ID,Is this an example of a parallel coordinates plot?,Is this an example of a parallel coordinates plot?,Is this an example of a parallel coordinates plot?,Is this an example of a parallel coordinates plot?,Is this an example of a parallel coordinates plot?,Is this an example of a parallel coordinates plot?,"Which of the following is an example of a parallel coordinates chart?
+
+
+
+ 
+
+	
+		
+			(A) 
+			(B) 
+			(C) 
+			(D) 
+			(E)","Which of the following is an example of a parallel coordinates chart?
+
+
+
+
+
+ 
+
+	
+		
+			(A) 
+			(B) 
+			(C) 
+			(D) 
+			(E)",Is this an example of a parallel coordinates plot?,Is this an example of a parallel coordinates plot?,"Which of the following is an example of a parallel coordinates chart?
+
+
+
+ 
+
+	
+		
+			(A) 
+			(B) 
+			(C) 
+			(D) 
+			(E)",Is this an example of a parallel coordinates plot?,Is this an example of a parallel coordinates plot?,"Which of the following is an example of a parallel coordinates chart?
+
+
+
+
+
+ 
+
+	
+		
+			(A) 
+			(B) 
+			(C) 
+			(D) 
+			(E)","Which of the following is an example of a parallel coordinates chart?
+
+
+
+ 
+
+	
+		
+			(A) 
+			(B) 
+			(C) 
+			(D) 
+			(E)",Is this an example of a parallel coordinates plot?,Is this an example of a parallel coordinates plot?,How confident are you in recognizing Parallel Coordinates charts?,Score,Score1,FA1_Score,FA1_Score1,FA1_Score2,FA2_Score
+12/29/23 1:40,12/29/23 1:52,IP Address,176.33.103.152,100,724,TRUE,12/29/23 1:52,R_4zY14VJ67ByNU5r,,,,,36.8833,34.5,anonymous,EN,3001,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,6,8,9,8,,,9
+12/30/23 5:53,12/30/23 6:06,IP Address,213.186.151.99,100,807,TRUE,12/30/23 6:06,R_4SAluc0WKs7uJvX,,,,,36.9483,35.3543,anonymous,EN,3002,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,7,8,9,8,,,9
+12/26/23 11:01,12/26/23 11:09,IP Address,46.197.24.78,100,435,TRUE,12/26/23 11:09,R_4MxHMPCjTrog6PL,,,,,37.0695,35.0907,anonymous,EN,3006,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,7,8,9,8,,,9
+12/20/23 11:07,12/20/23 11:13,IP Address,176.33.99.42,100,370,TRUE,12/20/23 11:13,R_4F2ptc83P9AIz0a,,,,,37.0695,35.0907,anonymous,EN,3007,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,4,8,9,8,,,9
+12/25/23 7:07,12/25/23 7:19,IP Address,78.172.196.126,100,712,TRUE,12/25/23 7:19,R_4g5Dh3GJde4Kmqy,,,,,36.9483,35.3543,anonymous,EN,3008,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,4,8,9,8,,,9
+12/29/23 8:53,12/29/23 9:01,IP Address,94.235.231.174,100,440,TRUE,12/29/23 9:01,R_4nN7KlLrWjtNzgJ,,,,,37.0695,35.0907,anonymous,EN,3009,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,7,8,9,8,,,9
+12/29/23 9:05,12/29/23 9:17,IP Address,85.101.69.16,100,697,TRUE,12/29/23 9:17,R_4bV5FwCRfOV5fJ4,,,,,36.9483,35.3543,anonymous,EN,3010,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,6,8,9,8,,,9
+12/30/23 4:44,12/30/23 4:51,IP Address,212.253.189.227,100,457,TRUE,12/30/23 4:51,R_4Rn1qG2pbpvpmiT,,,,,37.0178,37.3591,anonymous,EN,3011,Yes,Yes,Yes,No,No,No,A,,Yes,Yes,C,No,No,C,B,Yes,Yes,6,7,9,7,,,9
+12/24/23 7:19,12/24/23 7:25,IP Address,24.133.254.196,100,337,TRUE,12/24/23 7:25,R_4E63gnrjnWAaZSi,,,,,37.0695,35.0907,anonymous,EN,3013,Yes,Yes,Not sure,No,No,No,A,B,Yes,Yes,C,No,No,C,B,No,Yes,5,7,8,7,,,8
+12/29/23 9:32,12/29/23 9:37,IP Address,176.88.143.36,100,316,TRUE,12/29/23 9:37,R_4OxVXhEJllQRDxL,,,,,40.9558,29.0759,anonymous,EN,3015,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,2,8,9,8,,,9
+1/2/24 7:45,1/2/24 7:47,IP Address,193.140.54.59,100,151,TRUE,1/2/24 7:47,R_4q8WyZxbZ8ZmkNc,,,,,37.1726,35.2958,anonymous,EN,3018,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,7,8,9,8,,,9
+12/30/23 11:36,12/30/23 11:43,IP Address,88.245.247.178,100,429,TRUE,12/30/23 11:43,R_4kFdNYIEJf5ecfW,,,,,37.0646,37.3756,anonymous,EN,3019,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,6,8,9,8,,,9
+12/29/23 16:16,12/29/23 16:21,IP Address,5.229.1.103,100,291,TRUE,12/29/23 16:21,R_4Wewdml2hVKHB5f,,,,,36.9315,35.3303,anonymous,EN,3029,Yes,Yes,Yes,No,No,Yes,A,B,Yes,Yes,C,No,No,C,B,Not sure,Yes,7,7,8,7,,,8
+12/30/23 9:10,12/30/23 9:21,IP Address,81.213.40.114,100,653,TRUE,12/30/23 9:21,R_4bscNfjClcNQIzD,,,,,41.0247,28.9252,anonymous,EN,3031,Yes,Yes,Yes,No,No,Not sure,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,7,7,9,7,,,9
+12/25/23 4:46,12/25/23 4:53,IP Address,46.197.24.168,100,397,TRUE,12/25/23 4:53,R_40jx7oHJIoO8qMS,,,,,37.0695,35.0907,anonymous,EN,3037,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,No,Yes,6,8,8,8,,,8
+12/27/23 0:25,12/27/23 0:34,IP Address,78.160.131.229,100,545,TRUE,12/27/23 0:34,R_44pVP02BNVejI8e,,,,,36.9315,35.3303,anonymous,EN,3038,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,6,8,9,8,,,9
+12/30/23 9:32,12/30/23 10:24,IP Address,159.146.107.20,100,3094,TRUE,12/30/23 10:24,R_4QMqfvZegRauLwH,,,,,41.0145,28.9533,anonymous,EN,3040,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,6,8,9,8,,,9
+12/27/23 0:38,12/27/23 0:47,IP Address,188.119.7.174,100,557,TRUE,12/27/23 0:47,R_4QYt02EjdqMEyaE,,,,,36.9483,35.3543,anonymous,EN,3043,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,E,No,No,B,B,Yes,Yes,4,8,7,8,,,7
+2/22/24 16:49,2/22/24 17:00,IP Address,138.202.129.207,100,621,TRUE,2/22/24 17:00,R_5ZWA2l4Te8OzrQr,,,,,37.78,-122.465,anonymous,EN,5004,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,7,8,9,8,,,9
+2/22/24 16:49,2/22/24 17:00,IP Address,138.202.129.22,100,658,TRUE,2/22/24 17:00,R_3upsf3vtenb9wCZ,,,,,37.78,-122.465,anonymous,EN,5001,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,7,8,9,8,,,9
+2/22/24 16:52,2/22/24 17:00,IP Address,104.28.123.104,100,473,TRUE,2/22/24 17:00,R_6yDIEgDqSmiby1P,,,,,37.7833,-122.1864,anonymous,EN,5006,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,7,8,9,8,,,9
+2/22/24 16:49,2/22/24 17:00,IP Address,138.202.129.216,100,635,TRUE,2/22/24 17:00,R_1ToYj5bXahWdMb0,,,,,37.78,-122.465,anonymous,EN,5003,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,7,8,9,8,,,9
+2/22/24 16:49,2/22/24 17:00,IP Address,138.202.129.125,100,680,TRUE,2/22/24 17:00,R_38JQF1Wx5grY0sF,,,,,37.78,-122.465,anonymous,EN,5005,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,6,8,9,8,,,9
+2/22/24 16:49,2/22/24 17:00,IP Address,138.202.129.11,100,655,TRUE,2/22/24 17:00,R_6SrFgUf6sKJU8bC,,,,,37.78,-122.465,anonymous,EN,5002,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,5,8,9,8,,,9
+2/22/24 16:50,2/22/24 17:01,IP Address,138.202.129.70,100,639,TRUE,2/22/24 17:01,R_7V2xqSpaBpMRnh3,,,,,37.78,-122.465,anonymous,EN,5007,Yes,Yes,Yes,No,No,No,A,B,Yes,Yes,C,No,No,C,B,Yes,Yes,7,8,9,8,,,9

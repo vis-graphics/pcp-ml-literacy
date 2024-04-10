@@ -1,0 +1,57 @@
+Q1,Q2,Q3,Q4,Q5,Q6
+Please enter your participant ID,Which book has the highest number of downloads?,Which book has the fewest words in this dataset?,Which are the two books that have the highest polarity values?,Which book has the 2nd highest number of words but the lowest number of downloads?,"Which of the following books has fewer than 3,000 difficult words and fewer than 20,000 downloads and has fewer than 1,000 sentences?"
+3001,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+3002,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+3006,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+3007,Metamorphosis,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+3008,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+3009,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+3010,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Metamorphosis",Adventures of Huckleberry Finn,Metamorphosis
+3011,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+3013,Pride and Prejudice,The Yellow Wallpaper,"Alice's Adventures in Wonderland and Frankenstein; Or, The Modern Prometheus",Adventures of Huckleberry Finn,The Yellow Wallpaper
+3015,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+3018,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Metamorphosis",Adventures of Huckleberry Finn,Metamorphosis
+3019,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+3029,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Alice's Adventures in Wonderland,Metamorphosis
+3031,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+3037,Pride and Prejudice,The Yellow Wallpaper,Metamorphosis and Adventures of Huckleberry Finn,Adventures of Huckleberry Finn,Metamorphosis
+3038,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+3040,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+3043,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Metamorphosis",Adventures of Huckleberry Finn,Metamorphosis
+4005,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+4006,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+4007,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+4009,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+4010,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+4012,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+4014,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Pride and Prejudice,Metamorphosis
+4015,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,The Yellow Wallpaper
+4016,Pride and Prejudice,Metamorphosis,Metamorphosis and Adventures of Huckleberry Finn,Adventures of Huckleberry Finn,Alice's Adventures in Wonderland
+4018,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+4020,Pride and Prejudice,Metamorphosis,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+4022,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+4023,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Adventures of Huckleberry Finn
+4025,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+4031,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+4032,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+4033,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+4037,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+4038,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+4039,Pride and Prejudice,Adventures of Huckleberry Finn,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+4040,Pride and Prejudice,The Yellow Wallpaper,Metamorphosis and Adventures of Huckleberry Finn,Adventures of Huckleberry Finn,Metamorphosis
+4046,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Adventures of Huckleberry Finn
+6005,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+5002,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Alice's Adventures in Wonderland
+6008,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+6004,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+5001,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+5006,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+5007,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Alice's Adventures in Wonderland
+5004,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+5005,Pride and Prejudice,The Yellow Wallpaper,"Alice's Adventures in Wonderland and Frankenstein; Or, The Modern Prometheus",Adventures of Huckleberry Finn,Metamorphosis
+6002,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+6001,Pride and Prejudice,Metamorphosis,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+5003,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Metamorphosis",Adventures of Huckleberry Finn,Metamorphosis
+6006,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
+6003,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Alice's Adventures in Wonderland
+6007,Pride and Prejudice,The Yellow Wallpaper,"Frankenstein; Or, The Modern Prometheus and Pride and Prejudice",Adventures of Huckleberry Finn,Metamorphosis
